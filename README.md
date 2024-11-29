@@ -6,11 +6,6 @@ This project automates the generation of payslips for employees in your company 
  - **Payslip Download:** Downloads the payslips in PDF format and saves them with descriptive filenames.
  - **Efficient Processing:** Handles large volumes of data quickly and accurately.
  - **Customizable Fields:** Supports customization for earnings and deduction fields.
-# Environment
- - **Python:** Version 3.12.5
- - **Selenium:** Version 4.27.0
- - **Pandas:** Version 2.2.2
- - **Edge WebDriver:** Version 131.0.2903.70 (Ensure compatibility with the version of Microsoft Edge installed on your system.)
 # How It Works
 ### 1. Data Preprocessing:
  - Reads employee details from Demo.xlsx.
@@ -41,3 +36,8 @@ This project automates the generation of payslips for employees in your company 
  - Generates 100 payslips in approximately 6 minutes.
  - Automates repetitive tasks with minimal human intervention.
  - Ensures consistency and accuracy in payslip creation.
+# Environment
+ - **Python:** Version 3.12.5
+ - **Selenium:** Version 4.27.0
+ - **Pandas:** Version 2.2.2
+ - **Edge WebDriver:** Version 131.0.2903.70 (Ensure compatibility with the version of Microsoft Edge installed on your system.)
