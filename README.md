@@ -40,4 +40,6 @@ This project automates the generation of payslips for employees in your company 
  - **Python:** Version 3.12.5
  - **Selenium:** Version 4.27.0
  - **Pandas:** Version 2.2.2
- - **Edge WebDriver:** Version 131.0.2903.70 (Ensure compatibility with the version of Microsoft Edge installed on your system.)
+ - **Edge WebDriver:** Version 131.0.2903.70
+
+***Ensure compatibility with the version of Microsoft Edge installed on your system.**
