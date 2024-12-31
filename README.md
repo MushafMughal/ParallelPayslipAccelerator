@@ -41,8 +41,8 @@ This project automates the generation of payslips for employees in your company 
 # Performance
  - Efficient Parallel Execution: Leverages parallel processing with multiple instances, significantly improving the speed of payslip generation.
  - Execution Time Comparison:
-    - Serial Execution: Takes 12 minutes and 21 seconds to generate 100 payslips.
-    - Parallel Execution: Completes the same task in 2 minutes and 27 seconds.
+    - Serial Execution: Takes **12 minutes and 21 seconds** to generate 73 payslips.
+    - Parallel Execution: Completes the same task in **2 minutes and 27 seconds**.
  - Speedup and Efficiency:
     - Achieves a **4.4x speedup** with parallel programming.
     - **340% faster** compared to serial execution.
