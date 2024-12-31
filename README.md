@@ -1,4 +1,4 @@
-# PaySlip-Generator
+# Parallel-PaySlip-Generator
 This project automates the generation of payslips for employees in your company using a web automation script. It processes employee data from an Excel file, fills in the necessary fields on a payslip generator website, and downloads the payslips as PDF files. The system can generate approximately **100 payslips in around 3 minutes**, significantly reducing manual effort and time.
 
 With the integration of parallel programming techniques, the system can process multiple employee records simultaneously, significantly enhancing efficiency. This approach reduces processing time even further, enabling the generation of large volumes of payslips quickly and reliably.
